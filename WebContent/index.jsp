@@ -75,7 +75,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="momoqinghan@qq.com">
+                                <a href="#0">
                                     <span class="fa fa-envelope-open"></span>
                                 </a>
                             </li>
@@ -119,17 +119,17 @@
                 <img class="img-fluid" src="images/ab2.png" alt="">
             </div>
             <div class="col-lg-6 about-right">
-                <h4 class="about-tit">你好！<br>我叫张鹏。</h4>
-                <p class="my-4">中国海洋大学17级计算机科学与技术专业，学号17020031099</p>
-                <p>生日8月24日，故乡是山西</p>
+                <h4 class="about-tit">你好！<br>我叫xx。</h4>
+                <p class="my-4">xxx</p>
+                <p>xxx</p>
                 <li>
                     <a href="http://www.cnblogs.com/lemon-567/">
                         <span class="fa fa-chrome"></span>      http://www.cnblogs.com/lemon-567/
                     </a>
                 </li>
                 <li>
-                    <a href="mailto:momoqinghan@qq.com">
-                        <span class="fa fa-envelope-open"></span>      momoqinghan@qq.com
+                    <a href="mailto:">
+                        <span class="fa fa-envelope-open"></span>      mail
                     </a>
                 </li>
                 <li>
@@ -224,7 +224,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="mailto:momoqinghan@qq.com">
+                    <a href="mailto:">
                         <span class="fa fa-envelope-open"></span>
                     </a>
                 </li>
